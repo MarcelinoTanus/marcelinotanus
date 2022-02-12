@@ -1,4 +1,13 @@
 ### Hi there 👋
+# Halo semua! 
+
+Perkenalkan nama saya **Marcelino Tanus**.\
+
+Saya seorang **Mahasiswa Sistem Informasi** di [Ukrida](https://www.ukrida.ac.id/).\
+
+Sekarang saya sedang mengikuti program MSIB.\
+
+Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/marcelino-tanus-1219b521a/)ku ya.
 
 <!--
 **MarcelinoTanus/marcelinotanus** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
