@@ -1,13 +1,8 @@
-### Hi there 👋
-# Halo semua! 
+### Hi there 👋 
 
-Perkenalkan nama saya **Marcelino Tanus**.
-
-Saya seorang **Mahasiswa Sistem Informasi** di [Ukrida](https://www.ukrida.ac.id/).
-
-Sekarang saya sedang mengikuti program MSIB.
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/marcelino-tanus-1219b521a/)ku ya.
+im **Marcelino Tanus**.
+**Final Year Information System Student** at [Ukrida](https://www.ukrida.ac.id/).
+***Linkedin* [Linkedin](https://www.linkedin.com/in/marcelino-tanus-1219b521a/)ku ya.
 
 <p align="left">
 <a href="https://github.com/marcelinotanus">
