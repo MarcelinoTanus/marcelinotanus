@@ -1,8 +1,8 @@
 ### Hi there 👋 
 
 im **Marcelino Tanus**.
-**Final Year Information System Student** at [Ukrida](https://www.ukrida.ac.id/).
-***Linkedin* [Linkedin](https://www.linkedin.com/in/marcelino-tanus-1219b521a/)ku ya.
+<br> **Undergraduate Information System Student** at [Universitas Kristen krida Wacana](https://www.ukrida.ac.id/).
+<br> [Linkedin](www.linkedin.com/in/marcelinotanus)
 
 <p align="left">
 <a href="https://github.com/marcelinotanus">
